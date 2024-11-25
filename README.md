@@ -22,7 +22,7 @@ This was made completely from scratch to practice my debugging & program documen
 
 <br>
  
-|                        $${\color{red}Features:}$$                        | $${\color{red}Next} {} {\color{red}Update:}$$           |
+|                        $${\color{red}Features:}$$                        | $${\color{red}Update} {} {\color{red}Roadmap:}$$           |
 | :-----------------------------------------------------: | :---------------:      |
 |                                                         |                        |
 | Boot Animation that was rated 50/50 by my professor :3  | Cleanup animation code to rid myself of sphagetti code |
@@ -31,3 +31,7 @@ This was made completely from scratch to practice my debugging & program documen
 | Internal Clock                                          | Add Date Tracking System |                   
 
 <br>
+
+## $${\color{red}Change} {} {\color{red}Log:}$$
+
+- $${\color{red}V}{} {\color{red}1.0.1:}$$ Started the long process of cleaning up spaghetti code and overall making things nicer in here! It will make adding new features WAY easier.
