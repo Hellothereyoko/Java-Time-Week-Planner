@@ -34,4 +34,4 @@ This was made completely from scratch to practice my debugging & program documen
 
 ## $${\color{red}Change} {} {\color{red}Log:}$$
 
-- $${\color{red}V}{} {\color{red}1.0.1:}$$ Started the long process of cleaning up spaghetti code and overall making things nicer in here! It will make adding new features WAY easier.
+- $${\color{red}V} {} {\color{red}1.0.1:}$$ Started the long process of cleaning up spaghetti code and overall making things nicer in here! It will make adding new features WAY easier. (11/24/24)
